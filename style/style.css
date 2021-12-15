@@ -102,7 +102,7 @@
 	border: 0;
 }
 
-.our_clients{
+#our_clients{
 	margin-top: 80px;
 	color: #C2C2C2;
 	font-size: 35px;
@@ -147,12 +147,24 @@
 
 #logo_footer, #right{
 	display: inline-block;
-	margin-top: 40px;
+	margin-top: 50px;
 }
 
 #right{
 	float: right;
-	margin-top: 50px;
-	font-size: 20px;
+	margin-top: 60px;
+	font-size: 23px;
+	color: #202020;
+	font-family: Century Gothic;
+}
+
+#our_dev{
+	margin-top: 80px;
+	color: #C2C2C2;
+	font-size: 35px;
+}
+
+a{
+	text-decoration: none;
 	color: #202020;
 }
